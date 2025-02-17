@@ -1,0 +1,14 @@
+# The following table is formatted as tab separated values. 
+#GeneName	GeneId	TranscriptId	BioType	variants_impact_HIGH	variants_impact_LOW	variants_impact_MODERATE	variants_impact_MODIFIER	variants_effect_3_prime_UTR_variant	variants_effect_5_prime_UTR_variant	variants_effect_downstream_gene_variant	variants_effect_intron_variant	variants_effect_missense_variant	variants_effect_non_coding_transcript_exon_variant	variants_effect_splice_region_variant	variants_effect_stop_gained	variants_effect_synonymous_variant	variants_effect_upstream_gene_variant
+HLA-A	HLA-A	NM_002116.8	protein_coding	0	21	27	65	0	0	0	65	27	0	7	0	15	6
+HLA-B	HLA-B	NM_005514.8	protein_coding	0	8	26	32	2	1	0	19	26	0	2	0	7	11
+HLA-C	HLA-C	NM_002117.6	protein_coding	0	18	28	73	0	3	0	69	28	0	4	0	18	1
+HLA-DQA1	HLA-DQA1	XM_006715079.5	protein_coding	0	0	0	16	0	0	16	0	0	0	0	0	0	0
+HLA-DQB1	HLA-DQB1	NM_001243961.2	protein_coding	1	23	28	178	11	3	0	149	28	0	4	1	19	19
+HLA-DQB1	HLA-DQB1	NM_002123.5	protein_coding	1	22	28	179	11	3	0	149	28	0	3	1	19	19
+HLA-DQB1-AS1	HLA-DQB1-AS1	NR_133907.1		0	3	0	189	0	0	158	21	0	13	3	0	0	0
+HLA-DRB1	HLA-DRB1	NM_002124.4	protein_coding	2	22	30	231	16	4	0	216	30	0	7	2	17	0
+LOC124901298	LOC124901298	XR_007059541.1		0	0	0	113	0	0	0	92	0	21	0	0	0	0
+MIR6891	MIR6891	NR_106951.1		0	0	0	66	0	0	11	0	0	0	0	0	0	55
+MIR6891	MIR6891	unassigned_transcript_1094	miRNA	0	0	0	66	0	0	11	0	0	0	0	0	0	55
+MIR6891	MIR6891	unassigned_transcript_1095	miRNA	0	0	0	66	0	0	11	0	0	0	0	0	0	55

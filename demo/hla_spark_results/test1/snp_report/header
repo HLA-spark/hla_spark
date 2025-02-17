@@ -1,0 +1,14 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=chr6,length=170805979>
+##contig=<ID=HSCHR6_MHC_QBL_CTG1,length=4606388>
+##contig=<ID=HSCHR6_MHC_SSTO_CTG1,length=4929269>
+##ALT=<ID=*,Description="Represents allele(s) other than observed.">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Raw read depth">
+##INFO=<ID=I16,Number=16,Type=Float,Description="Auxiliary tag used for calling, see description of bcf_callret1_t in bam2bcf.h">
+##INFO=<ID=QS,Number=R,Type=Float,Description="Auxiliary tag used for calling">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=PL,Number=G,Type=Integer,Description="List of Phred-scaled genotype likelihoods">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Number of high-quality bases">
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths (high-quality bases)">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	test1
