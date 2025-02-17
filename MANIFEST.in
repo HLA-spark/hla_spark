@@ -1,0 +1,2 @@
+include hla_spark/data/*
+include hla_spark/config/config_HLA_spark.ini

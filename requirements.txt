@@ -1,0 +1,8 @@
+fastp
+samtools
+bwa
+picard
+bcftools
+bedtools
+pigz
+bgzip
