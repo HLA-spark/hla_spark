@@ -2,9 +2,11 @@
 
 ***
 
-**HLA-spark** is a method for calling coding SNPs in human leukocyte antigen (HLA) genes from next-generation sequencing (NGS) data. It provides reliable genotype estimates by using the best-matching HLA allele(s) as the reference and transforming the HLA allele-based genotype file to GRCh38.p14 genomic coordinates. **HLA-spark** addresses the challenges of directly calling HLA mutations from NGS data, which can then be utilized in phenotype-association analyses.
+**HLA-spark** is a method for identifying SNPs in human leukocyte antigen (HLA) genes from next-generation sequencing (NGS) data. It provides reliable genotype estimates by using the best-matching HLA allele(s) as the reference and transforming the HLA allele-based genotype file to GRCh38.p14 genomic coordinates. **HLA-spark** addresses the challenges of directly calling HLA mutations from NGS data, which can then be utilized in phenotype-association analyses.
 
-[**hla\_spark**](https://github.com/HLA-spark/hla_spark) is a HLA SNP caller for a sample data. 
+![graphical_abstract](https://github.com/user-attachments/assets/635530ed-bfb3-404c-a1e3-ba079ef1d3aa)
+
+[**hla\_spark**](https://github.com/HLA-spark/hla_spark) is an HLA SNP caller for analysing a sample data. 
 
 [**hla\_spark\_merge**](https://github.com/HLA-spark/hla_spark_merge) is used for merging and annotating SNP results of multiple samples to facilitate the further phenotype-association analysis.
 
