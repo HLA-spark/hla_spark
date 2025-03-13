@@ -1,6 +1,5 @@
 # HLA-spark: An accurate method for HLA SNP calling facilitates prioritization of genetic factors on occult hepatitis B virus infection at SNP-level
 
-***
 
 **HLA-spark** is a method for identifying SNPs in human leukocyte antigen (HLA) genes from next-generation sequencing (NGS) data. It provides reliable genotype estimates by using the best-matching HLA allele(s) as the reference and transforming the HLA allele-based genotype file to GRCh38.p14 genomic coordinates. **HLA-spark** addresses the challenges of directly calling HLA mutations from NGS data, which can then be utilized in phenotype-association analyses.
 
@@ -12,7 +11,6 @@
 
 ## **hla\_spark** Installation
 
-***
 
 Download the package from Github:
 
@@ -47,7 +45,6 @@ Install HLA-spark
 
 ## **hla\_spark** usage&#x20;
 
-***
 
 ### Running **hla\_spark**
 
